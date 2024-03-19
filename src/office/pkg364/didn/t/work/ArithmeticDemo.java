@@ -42,6 +42,8 @@ public class ArithmeticDemo
         System.out.println(firstNumber + " + " + secondNumber + " = " + sum);
         System.out.println("The difference between " + firstNumber + " + " + secondNumber + " is " + difference);
         System.out.println("The average of " + firstNumber + " + " + secondNumber + " = " + average);
+        System.out.println("Potatos fly");
     }
+    
     
 }
